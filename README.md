@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+🌱 I’m currently learning GitHub 😉
+
+⚡ Fun fact: my profile name is inspired by the computer-game (PC-version) 🏍️
 
 <!--
 **roadrash2108/roadrash2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
